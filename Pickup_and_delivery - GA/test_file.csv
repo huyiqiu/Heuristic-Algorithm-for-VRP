@@ -1,0 +1,4 @@
+id,longitude,latitude,requirement,recycling,time_e,time_l,serve_time
+0,1,2,6,4,5,6,7
+1,2,3,7,5,6,7,8
+2,3,4,8,6,7,8,9
